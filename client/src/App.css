@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap')
+;
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Prata&display=swap')
+;
+.container {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+body{
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(320deg, rgba(121, 66, 129, 0.974), rgba(32, 118, 112, 0.568));
+}
+p{
+  font-family: var(--font-family-prata);
+  text-transform: capitalize;
+    line-height: 210%;
+    letter-spacing: 2%;
+}
+
